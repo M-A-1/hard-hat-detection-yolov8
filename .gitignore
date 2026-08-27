@@ -20,6 +20,8 @@ hard_hat_dataset/
 runs/
 weights/
 *.cache
+*.pt
+*.onnx
 
 # Temporary files
 *.tmp
