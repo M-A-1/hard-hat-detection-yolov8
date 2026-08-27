@@ -9,11 +9,6 @@
 **SDAIA Academy:** https://github.com/SDAIAAcademy
 
 
-**Course:** AI / Machine Learning Course Project  
-**Course Dates:** **23 August 2026 – 27 August 2026**  
-**Project:** Hard Hat Detection Using YOLOv8  
-**Student GitHub Repository:** https://github.com/M-A-1/hard-hat-detection-yolov8
-
 ## Project Overview
 
 This project develops an object detection model for identifying hard-hat related objects in construction-worker images using YOLOv8.
@@ -396,7 +391,7 @@ The project demonstrates a functioning YOLOv8 hard-hat detection pipeline while 
 
 ## References
 
-1. **SDAIA GitHub:** https://github.com/SDAIA
+1. **SDAIA Academy:** https://github.com/SDAIAAcademy
 2. **SDAIA official website:** https://sdaia.gov.sa/
 3. **Hard Hat Workers dataset (Roboflow):** https://universe.roboflow.com/shdv1/hard-hat-workers-aibtb/dataset/1
 4. **Ultralytics YOLO:** https://github.com/ultralytics/ultralytics
